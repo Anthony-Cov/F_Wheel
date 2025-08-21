@@ -11,7 +11,7 @@ Maybe <A href=https://www.dll-files.com/search/?q=libwinpthread-1.dll>  libwinpt
  <pre><code>sudo apt-get install libsfml-dev</code></pre>
 <I>(Compilled with gcc 13.3.0 on Linux Mint 22 Wilma base: Ubuntu 24.04 noble)</I><BR><BR>
 <img src="f_wheel.png" width="500" height="500" >
-Save <B>/F_Wheel</B> or <B>/F_Wheel_Linux</B> folder somewhere. Launch <code>>FortuneWheel.exe</code> in command line or <code>/F_Wheel_Linux$ ./FortuneWheel</code> in terminal. Put the number of chances (N) from 2 to 36 (zero excluded). 
+Save <B>/F_Wheel</B> or <B>/F_Wheel_Linux</B> folder somewhere. Launch <code>>FortuneWheel.exe</code> in command line or <code>$./FortuneWheel</code> in terminal. Put the number of chances (N) from 2 to 36 (zero excluded). 
 When the wheel appears click to start spinning.<BR>
 <H3>Good luck to all!</H3>
 
